@@ -15,3 +15,4 @@ function destructivelyRemoveLastKitten(array,name){
   kittens.pop();
   return kittens; 
 }
+
