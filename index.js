@@ -20,3 +20,5 @@ function destructivelyRemoveFirstKitten(array,name){
   kittens.shift();
   return kittens; 
 }
+
+function appendKitten
